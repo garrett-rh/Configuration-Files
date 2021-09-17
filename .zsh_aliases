@@ -1,0 +1,12 @@
+alias ls='ls -lh --group-directories-first --color'
+alias vim='nvim'
+alias rustscan='docker run -it --rm --name rustscan rustscan/rustscan:2.0.0'
+alias htb='sudo openvpn /home/garrettharvey/.local/lab_garrettHTB.ovpn'
+alias thm='sudo openvpn /home/garrettharvey/.local/thm.ovpn'
+alias apartment='sudo openvpn /home/garrettharvey/.local/apartment.ovpn'
+alias htb_ra='sudo openvpn /home/garrettharvey/.local/release_arena_garrettHTB.ovpn'
+alias g++='g++ -pedantic-errors -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a'
+
+
+
+alias src='source ~/.zshrc'
