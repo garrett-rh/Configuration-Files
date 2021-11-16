@@ -8,5 +8,6 @@ alias htb_ra='sudo openvpn /home/garrettharvey/.local/release_arena_garrettHTB.o
 alias g++='g++ -pedantic-errors -Wall -Weffc++ -Wextra -Wsign-conversion -Werror -std=c++2a'
 
 
-
 alias src='source ~/.zshrc'
+
+export PATH=/usr/local/go/bin:/home/garrettharvey/go/bin:/home/garrettharvey/Bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/garrettharvey/.local/bin:/usr/lib/jvm/java-1.11.0-openjdk-amd64/bin:$PATH
